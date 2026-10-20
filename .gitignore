@@ -1,0 +1,15 @@
+# Éditeurs et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires et journaux
+*.log
+*.tmp
+*.swp
+
+# Données locales de développement
+.local-storage/
+playwright-report/
+test-results/
